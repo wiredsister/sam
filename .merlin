@@ -1,1 +1,1 @@
-PKG yojson lwt.unix
+PKG yojson lwt.unix stringext
